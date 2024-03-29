@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    padding: 1rem;
+    color: white;
+}
+.choices{
+    height: 165px;
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+}
+.choice{
+    height: 150px;
+    width: 150px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+p{
+    font-size: 2rem;
+}
+.count{
+    
+}
