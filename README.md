@@ -1,2 +1,2 @@
-# rock_paper_scissors-game
-Rock Paper Scissors Game
+# Rock Paper Scissors Game - Made for Fun
+Just Testing out how this game will work (Under Process)
